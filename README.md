@@ -11,7 +11,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -27,8 +26,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Tommy-Burns/qr-code-component)
+- Live Site URL: [Add live site URL here](https://tommy-burns.github.io/qr-code-component/#)
 
 ## My process
 
@@ -47,8 +46,8 @@ I learned how to use HTML tags to develop various sections of a webpage and how 
 <h1>Web Development is an interesting field!</h1>
 ```
 ```css
-.proud-of-this-css {
-  color: papayawhip;
+.qr-code-component {
+  color: blue;
 }
 ```
 
@@ -68,4 +67,3 @@ I looked forward to advancing higher in this development carrier and find myself
 ## Acknowledgments
 
 I thank Frontend Mentor for the opportunity given me to polish up my skills.
-
